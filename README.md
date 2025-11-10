@@ -52,3 +52,9 @@ Zen AI 公益分组秉承“**开源 · 分享 · 共善**”的理念，
 📧 请联系：[team@zen-ai.top](mailto:team@zen-ai.top)
 
 或者直接加入我们的qq讨论群（网站内导航）！
+
+---
+
+## 📖 其他语言
+
+- [English Version](README_EN.md)
